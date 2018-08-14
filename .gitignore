@@ -1,1 +1,8 @@
+textes/
+
+.idea
 .ipynb_checkpoints
+.DS_Store
+.DS_Store?
+*.sql
+*.sqlite
